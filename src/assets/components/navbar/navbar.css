@@ -1,0 +1,33 @@
+.navbar {
+    background-color: brown;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.navbar-brand:hover {
+    color: #fbff1b;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: #fbff1b;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    gap: 10px;
+}
