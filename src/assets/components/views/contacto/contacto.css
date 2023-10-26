@@ -25,3 +25,7 @@
     background-color: #D8F0A0;
     color: #7A9F35;
 }
+
+#message, #email{
+    color: black;
+}
