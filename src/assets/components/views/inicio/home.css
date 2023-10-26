@@ -1,7 +1,39 @@
-.card{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    height: 100vh;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #fff;
+  font-weight: bolder;
+  font-display: swap;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  border: 5px solid #7a9f35;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 60px;
+}
+
+.subtitle {
+  font-size: 30px;
+}
+
+.text {
+  font-size: 30px;
 }

@@ -1,0 +1,5 @@
+.App{
+    background-image: url('./assets/img/cake.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

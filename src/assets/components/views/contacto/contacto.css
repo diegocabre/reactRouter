@@ -12,3 +12,16 @@
     align-items: center;
     flex-direction: column;
 }
+
+.btn{
+    margin-top: 20px;
+    padding: 10px;
+    font-size: larger;
+    background-color: #7A9F35;
+    color: #D8F0A0;
+}
+
+.btn :hover{
+    background-color: #D8F0A0;
+    color: #7A9F35;
+}
