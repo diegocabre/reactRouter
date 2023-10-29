@@ -11,7 +11,7 @@ function NavBar() {
           <Link to="/contacto">Contacto</Link>
         </div>
         <div>
-        <Navbar.Brand href="/">Happy Cake</Navbar.Brand>
+        <Link to="/">Happy <span>Cake</span></Link>
         </div>
       </Container>
     </Navbar>
